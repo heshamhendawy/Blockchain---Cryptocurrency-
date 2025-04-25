@@ -1,2 +1,2 @@
 # Blockchain & Cryptocurrency 
- Tasks & Projects are uploaded here. The edited files named [Lab x]
+ Tasks & Projects are uploaded here.
